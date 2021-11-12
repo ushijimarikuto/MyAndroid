@@ -1,4 +1,4 @@
-# RecipeBookApp
+# Nameレシピ帳アプリ
 
 簡単に自分のRecipeをメモ出来るレシピ帳アプリ。
 
