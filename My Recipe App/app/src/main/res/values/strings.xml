@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recipe creation App</string>
+    <string name="return_top">TOP</string>
+    <string name="return_back">戻る</string>
+    <string name="move_first">新規作成</string>
+    <string name="move_second">レシピ一覧</string>
+    <string name="next">次へ</string>
+    <string name="hint">文字を入力して下さい</string>
+
+    <string name="lbl_title">タイトル：</string>
+    <string name="lbl_content">内容：</string>
+    <string name="lbl_ingredients">材料：</string>
+    <string name="btn_input_register">登録</string>
+    <string name="toast_register">登録しました</string>
+    <string name="toast_failed">登録出来ませんでした</string>
+    <string name="hint_title">タイトルを入力してください</string>
+    <string name="hint_content">内容を入力してください</string>
+    <string name="hint_ingredients">材料を入力してください</string>
+    <string name="btn_input_to_list">一覧画面へ</string>
+    <string name="lbl_empty">表示するRECIPEはありません</string>
+    <string name="btn_update">更新</string>
+    <string name="toast_update">更新しました</string>
+    <string name="btn_delete">削除</string>
+    <string name="toast_delete">削除しました</string>
+</resources>
